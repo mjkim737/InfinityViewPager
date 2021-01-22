@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config>
+        <device id="Nexus 7" />
+      </config>
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="verbose" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c29fc798-0015-41b9-8471-0d785a958bf6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="22cc1d1137037ece" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/app">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="GlideTest" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="GlideTest" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="GlideTest" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="GlideTest" type="f1a62948:ProjectNode" />
+                <item name="app" type="2d1252cf:ModuleNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Kotlin File" />
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1nJWbya2499bB3UXB94EESwjnyT" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DEBUGGABLE_DEVICE" value="samsung-sm_t860-R54N202KPKV" />
+    <property name="DEBUGGABLE_PROCESS" value="com.test.glidetest" />
+    <property name="DEBUGGER_ID" value="Auto" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHOW_ALL_PROCESSES" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Temp/5.PNG" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Minji\android_workspace\GlideTest\app\src\main\res\drawable" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.GlideTest [assemble]">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GlideTest [assemble]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="assemble" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.GlideTest [assemble]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c29fc798-0015-41b9-8471-0d785a958bf6" name="Default Changelist" comment="" />
+      <created>1611108748773</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611108748773</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1611218918148">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.26.1680.1010@0.0.1920.1040" timestamp="1611218918148" />
+    <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser" timestamp="1611198868954">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.26.1680.1010@0.0.1920.1040" timestamp="1611198868954" />
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1611214193531">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/1920.26.1680.1010@0.0.1920.1040" timestamp="1611214193531" />
+    <state x="815" y="285" key="AndroidProcessChooserDialog" timestamp="1611211627301">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="815" y="285" key="AndroidProcessChooserDialog/0.0.1920.1040/1920.26.1680.1010@0.0.1920.1040" timestamp="1611211627301" />
+    <state x="740" y="246" key="FileChooserDialogImpl" timestamp="1611211253137">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="246" key="FileChooserDialogImpl/0.0.1920.1040/1920.26.1680.1010@0.0.1920.1040" timestamp="1611211253137" />
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom" timestamp="1611220271716">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.26.1680.1010@0.0.1920.1040" timestamp="1611220271716" />
+    <state width="1877" height="281" key="GridCell.Tab.0.center" timestamp="1611220271716">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.center/0.0.1920.1040/1920.26.1680.1010@0.0.1920.1040" timestamp="1611220271716" />
+    <state width="1877" height="281" key="GridCell.Tab.0.left" timestamp="1611220271716">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.left/0.0.1920.1040/1920.26.1680.1010@0.0.1920.1040" timestamp="1611220271716" />
+    <state width="1877" height="281" key="GridCell.Tab.0.right" timestamp="1611220271716">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.right/0.0.1920.1040/1920.26.1680.1010@0.0.1920.1040" timestamp="1611220271716" />
+    <state width="1877" height="347" key="GridCell.Tab.1.bottom" timestamp="1611220271567">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.26.1680.1010@0.0.1920.1040" timestamp="1611220271567" />
+    <state width="1877" height="347" key="GridCell.Tab.1.center" timestamp="1611220271567">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.1.center/0.0.1920.1040/1920.26.1680.1010@0.0.1920.1040" timestamp="1611220271567" />
+    <state width="1877" height="347" key="GridCell.Tab.1.left" timestamp="1611220271567">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.1.left/0.0.1920.1040/1920.26.1680.1010@0.0.1920.1040" timestamp="1611220271567" />
+    <state width="1877" height="347" key="GridCell.Tab.1.right" timestamp="1611220271567">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.1.right/0.0.1920.1040/1920.26.1680.1010@0.0.1920.1040" timestamp="1611220271567" />
+    <state x="652" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1611127564640">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="652" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.26.1680.1010@0.0.1920.1040" timestamp="1611127564640" />
+    <state x="653" y="251" width="613" height="538" key="find.popup" timestamp="1611210070250">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="653" y="251" width="613" height="538" key="find.popup/0.0.1920.1040/1920.26.1680.1010@0.0.1920.1040" timestamp="1611210070250" />
+    <state width="662" height="89" key="javadoc.popup.new" timestamp="1611279364809">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="662" height="89" key="javadoc.popup.new/0.0.1920.1040/1920.26.1680.1010@0.0.1920.1040" timestamp="1611279364809" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1611128987649">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040/1920.26.1680.1010@0.0.1920.1040" timestamp="1611128987649" />
+    <state x="616" y="177" width="670" height="676" key="search.everywhere.popup" timestamp="1611279001488">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="177" width="670" height="676" key="search.everywhere.popup/0.0.1920.1040/1920.26.1680.1010@0.0.1920.1040" timestamp="1611279001488" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Remote">
+        <watch expression="filesDir" language="kotlin" custom="import android.os.Environment,import android.content.Context" />
+        <watch expression="dataDir" language="kotlin" />
+        <watch expression="Environment.getDataDirectory()" language="kotlin" />
+        <watch expression="Environment.getStorageDirectory()" language="kotlin" />
+        <watch expression="Environment.getExternalStorageDirectory() " language="kotlin" />
+        <watch expression="Environment.getDownloadCacheDirectory()" language="kotlin" />
+        <watch expression="filesDir" language="kotlin" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
