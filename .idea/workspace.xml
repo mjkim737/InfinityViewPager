@@ -13,8 +13,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c29fc798-0015-41b9-8471-0d785a958bf6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/InfinityViewPagerLib/src/main/java/com/mjkim/infinityviewpagerlib/InfinityViewPager.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InfinityViewPagerLib/src/main/java/com/mjkim/infinityviewpagerlib/InfinityViewPagerAdapter.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/InfinityViewPagerLib/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/InfinityViewPagerLib/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,11 +99,12 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHOW_ALL_PROCESSES" value="false" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/InfinityViewPagerLib/src/main/res" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Minji\10.Github\InfinityViewPager\InfinityViewPager\InfinityViewPagerLib\src\main\java\com\mjkim\infinityviewpagerlib" />
       <recent name="D:\Minji\android_workspace\GlideTest\app\src\main\res\drawable" />
     </key>
   </component>
@@ -216,10 +222,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="815" y="285" key="AndroidProcessChooserDialog/0.0.1920.1040/1920.26.1680.1010@0.0.1920.1040" timestamp="1611211627301" />
-    <state x="740" y="246" key="FileChooserDialogImpl" timestamp="1611211253137">
+    <state x="740" y="246" key="FileChooserDialogImpl" timestamp="1611302247384">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="246" key="FileChooserDialogImpl/0.0.1920.1040/1920.26.1680.1010@0.0.1920.1040" timestamp="1611211253137" />
+    <state x="740" y="246" key="FileChooserDialogImpl/0.0.1920.1040/1920.26.1680.1010@0.0.1920.1040" timestamp="1611302247384" />
     <state width="1877" height="617" key="GridCell.Tab.0.bottom" timestamp="1611290696650">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
