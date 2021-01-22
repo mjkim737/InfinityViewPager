@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/GlideTest.iml" filepath="$PROJECT_DIR$/.idea/modules/GlideTest.iml" group="GlideTest" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/InfinityViewPagerLib/InfinityViewPagerLib.iml" filepath="$PROJECT_DIR$/.idea/modules/InfinityViewPagerLib/InfinityViewPagerLib.iml" group="GlideTest/InfinityViewPagerLib" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="GlideTest/app" />
     </modules>
   </component>
